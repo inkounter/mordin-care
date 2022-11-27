@@ -7,7 +7,7 @@ This document covers Mordin's daily routines
 - if Mordin pooped:
     - wipe his butt
 - if Mordin peed or pooped:
-    - clean up pee and poop
+    - clean up pee and poop (see [cleanup instructions](cleanup.md))
     - remove pee pad (assuming it's dirty)
     - prop up pee pad holder
 - let him outside (on the balcony) to pee
@@ -92,6 +92,7 @@ This document covers Mordin's daily routines
           shoes/jacket/whatever, then take off his leash, harness, and collar,
           complimenting him with "good boy"s for being patient.
         - pick him up and put him in the bathtub
-        - wash his paws
+        - wash his paws (see ["Cleaning Mordin's
+          paws"](cleanup.md#step-3-cleaning-mordins-paws-of-poop))
         - take him back out on the balcony in case he needs to pee
         - make sure he has water
